@@ -45,7 +45,5 @@ The researchers report that the data were compiled from and downloaded directly 
 Before publishing, add the exact World Bank download page or dataset URL and the date on which the data were downloaded, if known. Check the reuse conditions for the data and third-party indicators before selecting a repository-wide licence. Do not assume that one licence applies to every indicator.
 
 ## Recommended citation
-After publishing this record, cite it using the DOI assigned by Zenodo. Also cite the original World Bank dataset and any underlying sources required by the indicator metadata.
+After publishing this record, cite it using the DOI assigned . Also cite the original World Bank dataset and any underlying sources required by the indicator metadata.
 
-## Authors
-Enter the verified author names, order, affiliations and contact details in the Zenodo record. Confirm the author order against the manuscript before publishing.
