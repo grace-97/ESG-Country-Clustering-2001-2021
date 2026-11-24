@@ -1,0 +1,5 @@
+DATA AVAILABILITY STATEMENT
+
+The country-level Environmental, Social and Governance (ESG) data supporting this study were obtained from the World Bank. The study analyses the period 2001–2021. The source data and accompanying metadata are deposited in Zenodo at [insert DOI after publication]. The repository README describes the deposited files and distinguishes the original source-file coverage from the analysis period.
+
+Replace the bracketed DOI placeholder after the Zenodo record has been published. Ensure that the deposited files and licence permit redistribution.

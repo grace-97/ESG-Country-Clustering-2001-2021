@@ -1,0 +1,24 @@
+SUGGESTED ZENODO RECORD DETAILS
+
+Title:
+Country-Level Environmental, Social and Governance (ESG) Data Supporting Machine Learning Clustering (2001–2021)
+
+Description:
+This repository supports the study "Clustering Countries Based on ESG Metrics: A Machine Learning Approach to ESG Factors." The study uses a compilation of country-level Environmental, Social, and Governance (ESG) indicators obtained from the World Bank. The researchers report an analysis period of 2001–2021. The data were supplied to an ESG-based classifier prototype to examine preprocessing and clustering using K-means and Hierarchical clustering.
+
+The deposit preserves the supplied original CSV data and accompanying country, indicator and footnote metadata. The original source file contains annual columns outside the 2001–2021 analysis period; those additional years are retained as part of the original download and are not asserted to have been used in the reported experiments. See README.md for details and limitations.
+
+Keywords:
+Environmental, Social and Governance; ESG; country-level data; World Bank; machine learning; K-means; hierarchical clustering; country clustering; 2001–2021
+
+Creators:
+Enter the verified author names in manuscript author order, with verified affiliations.
+
+Related publication:
+Clustering Countries Based on ESG Metrics: A Machine Learning Approach to ESG Factors
+
+Before publishing:
+1. Add the exact World Bank dataset/download URL and download date if available.
+2. Verify third-party reuse terms from the indicator metadata before selecting a licence.
+3. Confirm author names/order and affiliations.
+4. If uploading a separate analysis-ready dataset, include exact country and indicator selection, and preprocessing details.
